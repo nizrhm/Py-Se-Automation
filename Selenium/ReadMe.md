@@ -11,4 +11,10 @@
 
 3. Go to the domain 'demo.automationtesting.in' and do an inspect element operation on the page.
 
-4. 
+4. Go to browserSetup.py
+
+5. Go to XPATH.py
+
+6. Go to RCBGA.py
+
+7. Go to browserSetup.py

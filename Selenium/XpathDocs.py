@@ -1,10 +1,3 @@
-import time
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-
 #most used function
 
 #syntax
@@ -33,7 +26,3 @@ from selenium.webdriver.chrome.options import Options
 # following-sibling-preceding
 //input[@id='checkbox1']//following-sibling::label
 //input[@id='checkbox1']//preceding-sibling::label
-
-time.sleep(60)
-
-driver.quit()
